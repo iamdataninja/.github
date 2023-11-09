@@ -1,4 +1,4 @@
-# Server statuses
+# Server statuses [mydataninja.com](https://mydataninja.com)
 
 ## Production (TEST)
 
