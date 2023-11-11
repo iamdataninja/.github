@@ -10,4 +10,4 @@
 
 > [dev.app.ninjans.com](https://dev.app.ninjans.com) [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F5cfeb6c9-31d9-4d58-8d9b-1f0711ae1c1a%3Fdate%3D1&style=plastic)](https://forge.laravel.com/servers/747953/sites/2213546)
 
-> [dev.api.ninjans.com](https://dev.api.ninjans.com) [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F7e47accc-60bc-49be-bac0-412918c6c467&style=plastic)](https://forge.laravel.com/servers/747953/sites/2213497)
+> [dev.api.ninjans.com](https://dev.api.ninjans.com) [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F7e47accc-60bc-49be-bac0-412918c6c467%3Fdate%3D1&style=plastic)](https://forge.laravel.com/servers/747953/sites/2213497)
